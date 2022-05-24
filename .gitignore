@@ -3,3 +3,6 @@ htmlcov/*
 htmlcov
 .ipynb_checkpoints
 Untitled*ipynb
+.mypy_cache
+tags
+__pycache__
